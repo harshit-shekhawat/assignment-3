@@ -1,0 +1,248 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>NFT Gallery UI</title>
+
+  <!-- GOOGLE FONT -->
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+
+  <!-- FONT AWESOME -->
+  <link rel="stylesheet"
+  href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"/>
+
+<link rel="stylesheet" href="assignment-3,2.css" />
+</head>
+
+<body>
+
+  <div class="container">
+
+    <!-- GLOW DOTS -->
+
+    <div class="dot dot1"></div>
+    <div class="dot dot2"></div>
+    <div class="dot dot3"></div>
+    <div class="dot dot4"></div>
+
+    <!-- HEADER -->
+
+    <div class="top">
+
+      <h2>Explore Art Work</h2>
+
+      <a href="#">See All</a>
+
+    </div>
+
+    <!-- GRID -->
+
+    <div class="grid">
+
+      <!-- CARD 1 -->
+
+      <div class="card">
+
+        <div class="image-box">
+          <img src="https://images.unsplash.com/photo-1518770660439-4636190af475?q=80&w=1200&auto=format&fit=crop" alt="">
+        </div>
+
+        <div class="content">
+
+          <h3>Monocular</h3>
+
+          <div class="likes">
+            54.8k
+            <i class="fa-regular fa-heart"></i>
+          </div>
+
+        </div>
+
+        <button class="bid-btn">
+          Place Bid
+        </button>
+
+      </div>
+
+      <!-- CARD 2 -->
+
+      <div class="card">
+
+        <div class="image-box">
+          <img src="https://images.unsplash.com/photo-1500648767791-00dcc994a43e?q=80&w=1200&auto=format&fit=crop" alt="">
+        </div>
+
+        <div class="content">
+
+          <h3>Horns Mask</h3>
+
+          <div class="likes">
+            32.4k
+            <i class="fa-regular fa-heart"></i>
+          </div>
+
+        </div>
+
+        <button class="bid-btn">
+          Place Bid
+        </button>
+
+      </div>
+
+      <!-- CARD 3 -->
+
+      <div class="card">
+
+        <div class="image-box">
+          <img src="https://images.unsplash.com/photo-1524504388940-b1c1722653e1?q=80&w=1200&auto=format&fit=crop" alt="">
+        </div>
+
+        <div class="content">
+
+          <h3>Light Moon</h3>
+
+          <div class="likes">
+            86.6k
+            <i class="fa-regular fa-heart"></i>
+          </div>
+
+        </div>
+
+        <button class="bid-btn">
+          Place Bid
+        </button>
+
+      </div>
+
+      <!-- CARD 4 -->
+
+      <div class="card">
+
+        <div class="image-box">
+          <img src="https://images.unsplash.com/photo-1494790108377-be9c29b29330?q=80&w=1200&auto=format&fit=crop" alt="">
+        </div>
+
+        <div class="content">
+
+          <h3>Skull Wire</h3>
+
+          <div class="likes">
+            78.9k
+            <i class="fa-regular fa-heart"></i>
+          </div>
+
+        </div>
+
+        <button class="bid-btn">
+          Place Bid
+        </button>
+
+      </div>
+
+      <!-- CARD 5 -->
+
+      <div class="card">
+
+        <div class="image-box">
+          <img src="https://images.unsplash.com/photo-1517841905240-472988babdf9?q=80&w=1200&auto=format&fit=crop" alt="">
+        </div>
+
+        <div class="content">
+
+          <h3>Spiderman</h3>
+
+          <div class="likes">
+            24.8k
+            <i class="fa-regular fa-heart"></i>
+          </div>
+
+        </div>
+
+        <button class="bid-btn">
+          Place Bid
+        </button>
+
+      </div>
+
+      <!-- CARD 6 -->
+
+      <div class="card">
+
+        <div class="image-box">
+          <img src="https://images.unsplash.com/photo-1503023345310-bd7c1de61c7d?q=80&w=1200&auto=format&fit=crop" alt="">
+        </div>
+
+        <div class="content">
+
+          <h3>DeadPool</h3>
+
+          <div class="likes">
+            59.7k
+            <i class="fa-regular fa-heart"></i>
+          </div>
+
+        </div>
+
+        <button class="bid-btn">
+          Place Bid
+        </button>
+
+      </div>
+
+      <!-- CARD 7 -->
+
+      <div class="card">
+
+        <div class="image-box">
+          <img src="https://images.unsplash.com/photo-1500648767791-00dcc994a43e?q=80&w=1200&auto=format&fit=crop" alt="">
+        </div>
+
+        <div class="content">
+
+          <h3>White Eye</h3>
+
+          <div class="likes">
+            45.7k
+            <i class="fa-regular fa-heart"></i>
+          </div>
+
+        </div>
+
+        <button class="bid-btn">
+          Place Bid
+        </button>
+
+      </div>
+
+      <!-- CARD 8 -->
+
+      <div class="card">
+
+        <div class="image-box">
+          <img src="https://images.unsplash.com/photo-1517423440428-a5a00ad493e8?q=80&w=1200&auto=format&fit=crop" alt="">
+        </div>
+
+        <div class="content">
+
+          <h3>Plastic Spinal</h3>
+
+          <div class="likes">
+            98.6k
+            <i class="fa-regular fa-heart"></i>
+          </div>
+
+        </div>
+
+        <button class="bid-btn">
+          Place Bid
+        </button>
+
+      </div>
+
+    </div>
+
+  </div>
+
+</body>
+</html>
